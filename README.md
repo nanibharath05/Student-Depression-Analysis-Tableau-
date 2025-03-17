@@ -1,3 +1,4 @@
+Depression Analysis Dashboard – Tableau Project
 📊 This Tableau dashboard analyzes student depression trends using the Depression Student Dataset, stored and processed in Microsoft SQL Server. It provides insights into mental health patterns, risk factors, and correlations with academic performance.
 
 🔍 Project Overview
