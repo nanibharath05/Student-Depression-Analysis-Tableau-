@@ -2,10 +2,10 @@ Depression Analysis Dashboard – Tableau Project
 📊 This Tableau dashboard analyzes student depression trends using the Depression Student Dataset, stored and processed in Microsoft SQL Server. It provides insights into mental health patterns, risk factors, and correlations with academic performance.
 
 🔍 Project Overview
-Dataset: Depression+Student+Dataset.csv (original source)
-Database: Microsoft SQL Server (data cleaned and processed before visualization)
-Dashboard Name: Dashboard.twb
-Purpose: To visualize depression trends among students and identify key influencing factors.
+      Dataset: Depression+Student+Dataset.csv (original source)
+      Database: Microsoft SQL Server (data cleaned and processed before visualization)
+      Dashboard Name: Dashboard.twb
+      Purpose: To visualize depression trends among students and identify key influencing factors.
 Visualizations Included:
 📈 Trend Analysis: Depression levels over time
 🔍 Demographic Insights: Age, gender, and other factors
