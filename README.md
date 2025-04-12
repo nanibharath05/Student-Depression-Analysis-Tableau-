@@ -1,5 +1,5 @@
 
-# Student Depression Analysis 
+# Student Depression Analysis ![Image](https://github.com/user-attachments/assets/ca77caf9-ada8-435c-a5ec-7d3eb1c19b28)
 
 
 
