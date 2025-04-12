@@ -1,5 +1,5 @@
 
-# Student Depression Analysis 
+# Student Depression Analysis ![image](
 
 
 
@@ -112,12 +112,17 @@ Each visualization includes interactive filters, average age color coding, and l
     Server: Your_Server_Name
 
     Authentication: Choose Windows Authentication
+  
+![image alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/31a1d407e0af252db7de2c2dfd555f09c33f366b/Screenshot%202025-04-12%20072936.png)
 
 * Click Sign In
 
 * Once connected, under "Database", select: Tableau Project 1
 
 You will now see all tables (e.g., the imported Depression Student Dataset) and can start building visualizations.
+
+![image_alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/31a1d407e0af252db7de2c2dfd555f09c33f366b/Screenshot%202025-04-12%20072952.png)
+
 ## 📊 Creating Sheets in Tableau
 
 1️⃣ Academic Pressure & Student Count
@@ -157,6 +162,8 @@ Steps:
 * Add Labels for Financial Stress and count.
 
 * Drag Study Hours to Filter.
+  
+![image_alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/31a1d407e0af252db7de2c2dfd555f09c33f366b/Screenshot%202025-04-12%20070758.png)
 
 3️⃣ Study Satisfaction & Student Count
 
@@ -173,6 +180,8 @@ Steps :
 * Use Color for Age, and Label for satisfaction level & count.
 
 * Drag Study Hours to Filter.
+
+![image_alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/31a1d407e0af252db7de2c2dfd555f09c33f366b/Screenshot%202025-04-12%20072710.png)
 
 4️⃣ Sleep Duration & Student Count
 
@@ -192,6 +201,8 @@ Steps :
 
 * Drag Study Hours to Filter.
 
+![image_alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/31a1d407e0af252db7de2c2dfd555f09c33f366b/Screenshot%202025-04-12%20072720.png)
+
 5️⃣ Study Hours & Student Count
 
 Goal: Visualize how long students study and how it relates to stress levels and age.
@@ -207,6 +218,8 @@ Steps :
 * Add Age to Color and Study Hours to Label.
 
 * Drag Study Hours to Filter.
+
+![image_alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/31a1d407e0af252db7de2c2dfd555f09c33f366b/Screenshot%202025-04-12%20072729.png)
 
 ## 🧩 Dashboard
 
@@ -241,3 +254,5 @@ Steps :
 * Save your work as a .twbx file
 
 * Go to File > Save As, and choose Tableau Packaged Workbook (.twbx)
+
+![image_alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/31a1d407e0af252db7de2c2dfd555f09c33f366b/Screenshot%202025-04-12%20072741.png)
