@@ -138,6 +138,8 @@ Steps:
 
 * Drag Study Hours as a Filter.
 
+![image alt](https://github.com/nanibharath05/Student-Depression-Analysis-Tableau-/blob/8387cb764c14e7b04f72391309d5d6cf1919cc8f/Screenshot%202025-04-11%20192541.png)
+
 2️⃣ Financial Stress & Student Count
 
 Goal: Understand how financial stress levels vary among students.
