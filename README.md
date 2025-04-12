@@ -1,5 +1,5 @@
 
-# Student Depression Analysis ![image](
+# Student Depression Analysis 
 
 
 
